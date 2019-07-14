@@ -1,2 +1,8 @@
-# nothing
-just for practice to new a repository
+<!doctype>
+<html>
+  <head>
+  </head>
+<body>
+  this is a wed set of how to learn html.
+  </body>
+</html>
